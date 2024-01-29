@@ -1,0 +1,113 @@
+day 1:18/7/23
+
+html is hyper text markup language to use create web structure..
+
+element:-define start contect and declare and end a tag
+<tagname>content</tagname>
+
+doctype:-html vesrion
+head :-link,meta,title 
+body:-content of web pages like  paragraph.
+________________________________________________________________________________________________________________________________________________
+day 2:19/7/23
+
+today only learn heading tag in html 
+
+to 1 to 6 heading tag availabel in html
+________________________________________________________________________________________________________________________________________________
+day 3:20/7/2023
+
+today topic is list,super sub tags,deleted and s tag ,ins tag,hightligt text and center tag
+
+list : there are three types : 1.order list  describe only type.
+			       2.unorder list  select type that use(style attribute on css).
+			       3.miscellaneous  no type needed.
+
+super tag like square of number. sub tag is that sub number like(h2o).
+
+delete tag and ins is like big bazar sell selling price 1000 ka chiz ae 100 me or 1000 ke upar line hoti he.same as a s tag.
+
+highlight text yani aapke paragraph me kuch chije highlight karna that use strong , i(italic) etc.
+________________________________________________________________________________________________________________________________________________day 4:21/7/2023
+
+today topic is anchor tag and create simple website using 5 pages and bookmark.
+
+attribute :- _blank(that used to page open in new tab).
+
+span tag:- that one line menus.
+________________________________________________________________________________________________________________________________________________
+date 24/7/2023
+
+today topics image title tag and marquee and form tag.
+
+marquee:- scroll,slide,alternate.
+
+marquee attribute:- bgcolor,height,width,scrollamount(speed)
+
+marquee direction :- up,down,right,left.
+
+&&
+Html Form :- an html form is a section of a document with contains cantrol such as textfield.
+
+form attribute :- action,method(post,get),target.
+
+Input attribute :- name,value,place holder ,value ,disabled ,required,size,auto focus,form
+________________________________________________________________________________________________________________________________________________
+date 25/7/2023
+
+today topic is action,image button and fieldset and legend and label.
+
+action :- action means redirect to next page using file link.
+
+image button :- like to click image and submit form.
+
+fieldset :- to show this is form in page.
+
+legend :- to show form subject.
+________________________________________________________________________________________________________________________________________________
+date 26/7/2023
+
+today topic is table,table property and attributes.
+
+table is used to data show in tabular format.
+
+property : thead - table head. 
+  	   tbody - table body.
+           tfooter - table footer.
+
+tr :- table row.
+td :- table data
+th :- table hadding.
+cellspacing :- space in table
+cellpadding :- padding in table data.
+rowspan= merge two row.
+colspan = merge two coloum.
+________________________________________________________________________________________________________________________________________________
+date 28/7/2023
+
+today topic is html 5.
+
+like tags is(symmentic) nav,section,header,footer,main,iframe,video,audio
+
+iframe :- it is used to display a nested webpage.
+
+iframe attribute:- src,width,height,frameborder.
+
+nav:- create navigation menu.
+
+section :- divided a one to one part in section.
+
+header :- first part of web.
+
+footer :- last part of web.
+
+main :- main part of web.
+
+video :- display video in web page.
+attribute:- controls,height,width,loop,muted,poster,source
+
+audio :- display audio in web page.
+attribute:- controls,height,width,loop,muted,source
+________________________________________________________________________________________________________________________________________________
+
+
